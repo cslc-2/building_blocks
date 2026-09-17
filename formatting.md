@@ -2,6 +2,8 @@ Formatting
 ================
 2026-09-15
 
+I’m an R Markdown document!
+
 ## Text formatting
 
 *italic* or *italic* **bold** or **bold** `code` superscript<sup>2</sup>

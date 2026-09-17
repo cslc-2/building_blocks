@@ -4,6 +4,8 @@ output: github_document
 date: "2026-09-15"
 ---
 
+I'm an R Markdown document!
+
 Text formatting 
 ------------------------------------------------------------
 
